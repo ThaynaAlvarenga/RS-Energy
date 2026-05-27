@@ -126,12 +126,14 @@ export default function PyaeSection() {
                 </div>
               </div>
 
+              {/*  
               <span className="inline-block bg-[#00E676]/15
                 text-[#00E676] text-xs font-bold px-3 py-1.5 rounded-full
                 uppercase tracking-wide mb-4">
                 Em breve
               </span>
-
+              */}
+              
               <p className="text-white/60 text-sm leading-relaxed mb-5">
                 A próxima revolução em mobilidade sustentável.
                 Eletropostos inteligentes distribuídos pela região
