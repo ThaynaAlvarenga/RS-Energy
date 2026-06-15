@@ -56,11 +56,11 @@ export default function PyaeSection() {
           <div className="flex flex-col gap-6">
             <span className="text-[#00E676] text-xs font-bold uppercase
               tracking-[3px] block">
-              Em breve · Mobilidade Elétrica
+              Mobilidade Elétrica
             </span>
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-white
               leading-tight">
-              PYA'E Energia<br/>Chegando na Região
+              PYA'E Energia<br/>Chegou na Região
             </h2>
             <p className="text-white/65 text-base leading-relaxed">
               Depois de revolucionar a geração solar, chegamos na
